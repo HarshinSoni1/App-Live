@@ -1,0 +1,6 @@
+# app-ads.txt for App-Live
+# Replace the placeholder publisher IDs with your own IDs before publishing.
+# For AdMob, use your AdMob publisher ID (pub-XXXXXXXXXXXXXXXX).
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Example reseller entry (replace with real values if needed):
+# example-ad-network.com, pub-0000000000000001, RESELLER, abcdef1234567890
